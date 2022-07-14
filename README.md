@@ -1,4 +1,4 @@
-# Cartoon look wallpaper generation with OpenCV
+# Wallpaper generation with OpenCV
 
 Using K-means to generate good wallpapers for me with a cartoon look.
 
